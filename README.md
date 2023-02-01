@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthparolekar&show_icons=true&theme=synthwave&title_color=ee00ff&text_color=07edde&bg_color=060557&locale=en&layout=compact" alt="parthparolekar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthparolekar&show_icons=true&locale=en" alt="parthparolekar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthparolekar&show_icons=true&locale=en&theme=synthwave&title_color=ee00ff&text_color=07edde&bg_color=060557&locale=en&layout=compact" alt="parthparolekar" /></p>
